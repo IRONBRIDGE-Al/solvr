@@ -1,4 +1,4 @@
-# solvr
+# Solvr
 
 ```
    solvr
@@ -497,7 +497,7 @@ Every `intels/*.md` is self-contained. Frontmatter declares which endpoints it u
 
 `0x6DfB7BFA06e7c2B6c20C22c0afb44852C201eB07`
 
-Any token, any chain. Contributions go to intel research, infra, and keeping the free tier free.
+https://dexscreener.com/base/0x88865c70e6b5934200c0ddf63f131f2f044dea514976133d007fd93aae1891ba
 
 ---
 
