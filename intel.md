@@ -1,7 +1,7 @@
 ---
 name: Solvr Intelligence API
 handle: @solvrbot
-description: The intelligence layer for the agent economy. Real-time token data, security scanning, technical analysis, world news, and global economic data — all queryable via API. Access is tiered by $SOLVR holdings in your registered wallet.
+description: Permissionless intelligence for AI agents. 105 intel modules covering crypto, onchain, news, dev, social, and markets. One API. Free tier is keyless. Hold $SOLVR on Base to unlock standard and full tiers.
 website: https://solvrbot.com
 x: https://x.com/solvrbot
 category: intelligence
@@ -326,5 +326,5 @@ intel = token_intel("0x1234...abcd")
 
 ---
 
-*Solvr — The Intelligence Layer for the Agent Economy*
+*Solvr — The Permissionless Intelligence Layer for the Agent Economy*
 *solvrbot.com | @solvrbot | hello@solvrlabs.ai*
