@@ -26,6 +26,19 @@ Every tier is permissionless. No human approves you, no KYC, no whitelist. The f
 
 ---
 
+## Framework packs
+
+Drop-in intel packs for specific agent ecosystems. Each pack is the same 105 intels, restructured for that framework's conventions.
+
+| Pack | For | Status |
+|---|---|---|
+| [**solvr-venice**](https://github.com/solvrbase/solvr-venice) | Venice-backed agents (Eliza, CrewAI, LangChain, any OpenAI-compatible) | Live |
+| solvr-eliza | Native Eliza character format | Planned |
+| solvr-crewai | CrewAI tool wrappers | Planned |
+| solvr-claude | Anthropic Skills format for Claude Code | Planned |
+
+---
+
 ## 105 Intels. One API Key.
 
 | Category | Count | What you get |
